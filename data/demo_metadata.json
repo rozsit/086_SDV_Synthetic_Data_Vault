@@ -1,0 +1,94 @@
+{
+    "tables": {
+        "table": {
+            "columns": {
+                "col1": {
+                    "sdtype": "categorical"
+                },
+                "col2": {
+                    "sdtype": "categorical"
+                },
+                "col3": {
+                    "sdtype": "numerical"
+                },
+                "col4": {
+                    "sdtype": "categorical"
+                },
+                "col5": {
+                    "sdtype": "categorical"
+                },
+                "col6": {
+                    "sdtype": "categorical"
+                },
+                "col7": {
+                    "sdtype": "categorical"
+                },
+                "col8": {
+                    "sdtype": "categorical"
+                },
+                "col9": {
+                    "sdtype": "categorical"
+                },
+                "col10": {
+                    "sdtype": "categorical"
+                },
+                "col11": {
+                    "sdtype": "categorical"
+                },
+                "col12": {
+                    "sdtype": "categorical"
+                },
+                "col13": {
+                    "sdtype": "categorical"
+                },
+                "col14": {
+                    "sdtype": "categorical"
+                },
+                "col15": {
+                    "sdtype": "categorical"
+                },
+                "col16": {
+                    "sdtype": "categorical"
+                },
+                "col17": {
+                    "sdtype": "categorical"
+                },
+                "col18": {
+                    "sdtype": "categorical"
+                },
+                "col19": {
+                    "sdtype": "categorical"
+                },
+                "col20": {
+                    "sdtype": "categorical"
+                },
+                "col21": {
+                    "sdtype": "categorical"
+                },
+                "col22": {
+                    "sdtype": "categorical"
+                },
+                "col23": {
+                    "sdtype": "categorical"
+                },
+                "col24": {
+                    "sdtype": "categorical"
+                },
+                "col25": {
+                    "sdtype": "numerical"
+                },
+                "col26": {
+                    "sdtype": "categorical"
+                },
+                "col27": {
+                    "sdtype": "categorical"
+                },
+                "col28": {
+                    "sdtype": "categorical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}
